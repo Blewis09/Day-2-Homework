@@ -1,0 +1,54 @@
+.footer-container{
+    background-color: black;    
+    color: white;  
+    font-size: small;
+   display: flex; 
+   }
+
+nav{
+    background-color: black; 
+    color: white; 
+    display: flex; 
+    align-items:center;
+}
+
+.container .text{
+    position: absolute;
+    color:white; 
+    left: 30%;
+    top: 50%; 
+    font-size: 150px;   
+}
+
+#banner{
+    width:100vw; 
+}
+
+
+nav a {
+   color: white; 
+   text-decoration: none;
+    margin: 10px; 
+    
+}
+
+.sub-container2{
+    display:flex; 
+    align-items: center;
+ 
+}
+
+button{
+    margin: 100px; 
+    background-color:orange; 
+}
+
+.footer-heading{
+ margin-right:200px; 
+}
+
+#date{
+    text-align:center;
+    border: 1px solid black; 
+    font-weight: 300;
+}
